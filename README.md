@@ -54,3 +54,7 @@ if __name__ == '__main__':
 - 主要是通过.render以及with open等进行python和html档的数据交互，并且在项目中已成功实现。
 ```
 
+### 部分参考链接
+1. [http://pyecharts.herokuapp.com/](http://pyecharts.herokuapp.com/)
+2. [https://github.com/pyecharts/pyecharts-app](https://github.com/pyecharts/pyecharts-app)
+3. [https://www.jianshu.com/p/e0b2851672cd](https://www.jianshu.com/p/e0b2851672cd)
