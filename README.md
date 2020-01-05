@@ -6,6 +6,7 @@
 本文档主要根据评分细则来进行说明期末项目，如果有描述不当的地方请见谅。
 ```
 ### pythonanywhere地址：
+### URL数量总共为六个
 
 ### HTML档描述
 在pycharm内通过render、return、plot_all等代码函数，对python档和HTML档进行了数据交互，使得数据的可视化图表能够正常显示并且部署到pythonanywhere上。HTML档有加过滤器（eg：{{the_fenshenggdp|safe}}）让数据能正常交互。
@@ -52,6 +53,4 @@ if __name__ == '__main__':
   
 - 主要是通过.render以及with open等进行python和html档的数据交互，并且在项目中已成功实现。
 ```
-
-### python项目所有的页面链接如下：
 
