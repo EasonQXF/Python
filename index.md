@@ -1,7 +1,7 @@
 ## Welcome to Xiaofeng ＆ Python
 #### 可以通过点击页面上方黄色区域View On GitHub按钮访问仓库源码
-```
-- 本文档主要根据评分细则来进行说明期末项目，如果有描述不当的地方请见谅。
+```markdown
+本文档主要根据评分细则来进行说明期末项目，如果有描述不当的地方请见谅。
 ```
 ### pythonanywhere地址：
 
