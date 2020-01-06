@@ -113,7 +113,9 @@ def timeline_map2() -> Timeline:
                            the_fenshenggdp=plot_all,
                            )
 
-
+@app.route('/result',methods=['GET'])
+def index():
+  return render_template('results.html')
 
 if __name__ == '__main__':
   app.run(debug=True)
