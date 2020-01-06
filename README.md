@@ -6,7 +6,7 @@
 本文档主要根据评分细则来进行说明期末项目，如果有描述不当的地方请见谅。
 ```
 ### pythonanywhere地址：[http://xiaofeng0418.pythonanywhere.com/](http://xiaofeng0418.pythonanywhere.com/)
-### URL数量总共为六个
+### URL数量总共为五个
 
 ### HTML档描述
 在pycharm内通过render、return、plot_all等代码函数，对python档和HTML档进行了数据交互，使得数据的可视化图表能够正常显示并且部署到pythonanywhere上。HTML档有加过滤器（eg：{{the_fenshenggdp|safe}}）让数据能正常交互。
